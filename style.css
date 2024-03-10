@@ -1,0 +1,37 @@
+body {
+    margin: 0;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+
+.div-a {
+    background-color: #ebee2c; 
+    width: 500px;
+    height: 500px;
+}
+
+.div-b {
+    background-color: #0e5a0e7c; 
+    width: 50%;
+    height: 50%;
+}
+
+.div-d {
+    background-color: rgba(173, 216, 230, 0.5); 
+    width: 50%;
+    height: 50vh;
+}
+
+.div-e {
+    background-color: rgba(72, 138, 92, 0.5); 
+    width: 75vw;
+    height: 50%;
+}
+
+.paragrafo {
+    color: #ff0202dc; 
+    background-color: #fa66ff; 
+    font-size: 18px;
+    font-family: 'Arial', sans-serif;
+    font-weight: bold;
+    padding: 10px;
+}
